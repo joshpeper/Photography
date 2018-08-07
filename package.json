@@ -1,0 +1,22 @@
+{
+  "name": "photography",
+  "version": "1.0.0",
+  "description": "photography website",
+  "main": "index.js",
+  "homepage": "https://joshpeper.github.io/Photography",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshpeper/Photography.git"
+  },
+  "author": "Josh Peper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshpeper/Photography/issues"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.2.0"
+  }
+}
